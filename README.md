@@ -5,6 +5,7 @@ IP Reputation Checker is a Python script that checks the reputation of IP addres
 ## Prerequisites
 
 - Python 3.x
+- The `requests` package (can be installed with `pip install requests`)
 - A text file containing a list of IP addresses, one per line
 - A VirusTotal API key (you can get one for free by signing up at https://www.virustotal.com/)
 
