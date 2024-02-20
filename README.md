@@ -12,13 +12,13 @@ Repcheck is a Python script that checks the reputation of IP addresses using the
 ## Usage
 
 1. Clone this repository:
-git clone https://github.com/Just-A-Regular-Guy/repcheck
+`git clone https://github.com/Just-A-Regular-Guy/repcheck`
 
 2. Change to the directory containing the script:
-cd repcheck
+`cd repcheck`
 
 3. Run the script, passing the filename of your IP address list as an argument:
-python3 repcheck.py <filename>
+`python3 repcheck.py <filename>`
 
 Replace `<filename>` with the name of your text file containing the IP addresses.
 
@@ -26,6 +26,6 @@ Replace `<filename>` with the name of your text file containing the IP addresses
 
 ## License
 
-This project is licensed - see the https://github.com/Just-A-Regular-Guy/repcheck/edit/main/LICENSE file for details.
+This project is licensed - see the `https://github.com/Just-A-Regular-Guy/repcheck/edit/main/LICENSE` file for details.
 
-By using repcheck, you acknowledge that you have read, understood, and agreed to the terms outlined in this LICENSE: https://github.com/Just-A-Regular-Guy/repcheck/edit/main/LICENSE . The developers and contributors of repcheck reserve the right to modify or update this LICENSE at any time.
+By using repcheck, you acknowledge that you have read, understood, and agreed to the terms outlined in this LICENSE: `https://github.com/Just-A-Regular-Guy/repcheck/edit/main/LICENSE` . The developers and contributors of repcheck reserve the right to modify or update this LICENSE at any time.
