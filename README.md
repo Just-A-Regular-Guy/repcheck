@@ -5,20 +5,29 @@ Repcheck is a Python script that checks the reputation of IP addresses using the
 ## Prerequisites
 
 - Python 3.x
-- The `requests` package (can be installed with `pip install requests`)
+- The `requests` package. can be installed with:
+  ```sh
+  pip install requests
+  ```
 - A text file containing a list of IP addresses, one per line
 - A VirusTotal API key (you can get one for free by signing up at https://www.virustotal.com/)
 
 ## Usage
 
 1. Clone this repository:
-`git clone https://github.com/Just-A-Regular-Guy/repcheck`
+```sh
+git clone https://github.com/Just-A-Regular-Guy/repcheck
+```
 
-2. Change to the directory containing the script:
-`cd repcheck`
+3. Change to the directory containing the script:
+```sh
+cd repcheck
+```
 
-3. Run the script, passing the filename of your IP address list as an argument:
-`python3 repcheck.py <filename>`
+4. Run the script, passing the filename of your IP address list as an argument:
+```sh
+python3 repcheck.py <filename>
+```
 
 Replace `<filename>` with the name of your text file containing the IP addresses.
 
